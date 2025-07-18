@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "product_name": "Wireless Mouse",
+      "date": "2024-11-20",
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "product_name": "Laptop Stand",
+      "date": "2024-11-19",
+      "rating": 4.8
+    },
+    {
+      "id": 3,
+      "name": "Alex Jones",
+      "product_name": "Mechanical Keyboard",
+      "date": "2024-11-18",
+      "rating": 4.2
+    },
+    {
+      "id": 4,
+      "name": "Lisa Brown",
+      "product_name": "Noise Cancelling Headphones",
+      "date": "2024-11-17",
+      "rating": 5.0
+    },
+    {
+      "id": 5,
+      "name": "Mike White",
+      "product_name": "Portable Charger",
+      "date": "2024-11-16",
+      "rating": 4.7
+    },
+    {
+      "id": 6,
+      "name": "Sara Clark",
+      "product_name": "Smartwatch",
+      "date": "2024-11-15",
+      "rating": 4.3
+    },
+    {
+      "id": 7,
+      "name": "Emma Taylor",
+      "product_name": "Bluetooth Speaker",
+      "date": "2024-11-14",
+      "rating": 4.6
+    },
+    {
+      "id": 8,
+      "name": "Noah Hill",
+      "product_name": "Gaming Monitor",
+      "date": "2024-11-13",
+      "rating": 4.9
+    },
+    {
+      "id": 9,
+      "name": "Olivia Green",
+      "product_name": "External SSD",
+      "date": "2024-11-12",
+      "rating": 4.4
+    },
+    {
+      "id": 10,
+      "name": "Liam Wilson",
+      "product_name": "Ergonomic Chair",
+      "date": "2024-11-11",
+      "rating": 5.0
+    }
+  ]
+  

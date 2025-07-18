@@ -1,0 +1,19 @@
+#imageZoom {
+    @apply w-[100%] h-[400px] border-2;
+}
+
+#imageZoom img {
+    object-position: 0 0;
+    @apply w-full h-full object-cover object-center;
+
+}
+#imageZoom::after{ 
+    display: var(--display);
+    content: '';
+    background-image: var(--url);
+    background-size: 250%;
+    background-position: var(--zoomX) var(--zoomY);
+    @apply absolute top-0 left-0 w-full md:h-[400px]  h-full z-20;
+   
+}
+

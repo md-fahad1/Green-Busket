@@ -1,0 +1,168 @@
+[
+    {
+      "id": "C001",
+      "title": "20% Off on Electronics",
+      "code": "ELEC20",
+      "discount": "20%",
+      "validFrom": "2024-12-01T00:00:00Z",
+      "validUntil": "2024-12-31T23:59:59Z",
+      "minimumPurchase": 100,
+      "description": "Get 20% off on all electronic items. Offer valid for purchases above $100.",
+      "status": "active"
+    },
+    {
+      "id": "C002",
+      "title": "Buy 1 Get 1 Free",
+      "code": "BOGO",
+      "discount": "100%",
+      "validFrom": "2024-12-15T00:00:00Z",
+      "validUntil": "2025-01-15T23:59:59Z",
+      "minimumPurchase": 0,
+      "description": "Buy one item and get another of equal or lesser value free. Applicable to selected categories.",
+      "status": "active"
+    },
+    {
+      "id": "C003",
+      "title": "Flat $50 Off",
+      "code": "FLAT50",
+      "discount": "$50",
+      "validFrom": "2024-12-10T00:00:00Z",
+      "validUntil": "2024-12-25T23:59:59Z",
+      "minimumPurchase": 300,
+      "description": "Enjoy a flat $50 discount on orders above $300.",
+      "status": "expired"
+    },
+    {
+      "id": "C004",
+      "title": "10% Cashback",
+      "code": "CASH10",
+      "discount": "10%",
+      "validFrom": "2024-12-20T00:00:00Z",
+      "validUntil": "2025-01-10T23:59:59Z",
+      "minimumPurchase": 50,
+      "description": "Get 10% cashback on purchases over $50. Cashback will be credited within 7 days.",
+      "status": "active"
+    },
+    {
+      "id": "C005",
+      "title": "Free Shipping",
+      "code": "FREESHIP",
+      "discount": "Free Shipping",
+      "validFrom": "2024-11-01T00:00:00Z",
+      "validUntil": "2024-12-31T23:59:59Z",
+      "minimumPurchase": 0,
+      "description": "Enjoy free shipping on all orders. No minimum purchase required.",
+      "status": "active"
+    },
+    {
+      "id": "C006",
+      "title": "15% Off on First Purchase",
+      "code": "FIRST15",
+      "discount": "15%",
+      "validFrom": "2024-12-01T00:00:00Z",
+      "validUntil": "2025-01-31T23:59:59Z",
+      "minimumPurchase": 50,
+      "description": "New customers get 15% off on their first purchase.",
+      "status": "active"
+    },
+    {
+      "id": "C007",
+      "title": "30% Off on Fashion",
+      "code": "STYLE30",
+      "discount": "30%",
+      "validFrom": "2024-11-20T00:00:00Z",
+      "validUntil": "2024-12-31T23:59:59Z",
+      "minimumPurchase": 150,
+      "description": "Get 30% off on all fashion categories for purchases above $150.",
+      "status": "active"
+    },
+    {
+      "id": "C008",
+      "title": "5% Off Sitewide",
+      "code": "SITE5",
+      "discount": "5%",
+      "validFrom": "2024-12-05T00:00:00Z",
+      "validUntil": "2025-01-05T23:59:59Z",
+      "minimumPurchase": 0,
+      "description": "Enjoy a 5% discount on all products. No minimum purchase required.",
+      "status": "active"
+    },
+    {
+      "id": "C009",
+      "title": "25% Off on Books",
+      "code": "BOOKS25",
+      "discount": "25%",
+      "validFrom": "2024-12-10T00:00:00Z",
+      "validUntil": "2025-01-10T23:59:59Z",
+      "minimumPurchase": 30,
+      "description": "Get 25% off on all books for orders above $30.",
+      "status": "active"
+    },
+    {
+      "id": "C010",
+      "title": "Holiday Special: $100 Off",
+      "code": "HOLIDAY100",
+      "discount": "$100",
+      "validFrom": "2024-12-20T00:00:00Z",
+      "validUntil": "2024-12-31T23:59:59Z",
+      "minimumPurchase": 500,
+      "description": "Save $100 on holiday purchases above $500.",
+      "status": "active"
+    },
+    {
+      "id": "C011",
+      "title": "Free Gift on Orders Above $200",
+      "code": "GIFT200",
+      "discount": "Free Gift",
+      "validFrom": "2024-12-01T00:00:00Z",
+      "validUntil": "2024-12-31T23:59:59Z",
+      "minimumPurchase": 200,
+      "description": "Receive a free gift with orders above $200.",
+      "status": "active"
+    },
+    {
+      "id": "C012",
+      "title": "50% Off on Clearance Sale",
+      "code": "CLEAR50",
+      "discount": "50%",
+      "validFrom": "2024-12-01T00:00:00Z",
+      "validUntil": "2024-12-15T23:59:59Z",
+      "minimumPurchase": 0,
+      "description": "Massive clearance sale! Get up to 50% off on select items.",
+      "status": "expired"
+    },
+    {
+      "id": "C013",
+      "title": "Exclusive 40% Off",
+      "code": "EXCL40",
+      "discount": "40%",
+      "validFrom": "2024-12-25T00:00:00Z",
+      "validUntil": "2025-01-05T23:59:59Z",
+      "minimumPurchase": 250,
+      "description": "Exclusive 40% discount for premium members on orders above $250.",
+      "status": "active"
+    },
+    {
+      "id": "C014",
+      "title": "Special Birthday Discount",
+      "code": "BIRTHDAY",
+      "discount": "30%",
+      "validFrom": "2024-12-01T00:00:00Z",
+      "validUntil": "2024-12-31T23:59:59Z",
+      "minimumPurchase": 0,
+      "description": "Celebrate your birthday with a 30% discount on any order. Valid for one-time use.",
+      "status": "active"
+    },
+    {
+      "id": "C015",
+      "title": "Loyalty Reward: $20 Off",
+      "code": "LOYAL20",
+      "discount": "$20",
+      "validFrom": "2024-12-01T00:00:00Z",
+      "validUntil": "2024-12-31T23:59:59Z",
+      "minimumPurchase": 100,
+      "description": "As a loyal customer, enjoy $20 off on orders above $100.",
+      "status": "active"
+    }
+  ]
+  

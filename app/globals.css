@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/* .swiper-button-prev, .swiper-button-next{
+    width: 40px !important;
+    background-color: white;
+    height: 40px !important;
+    @apply rounded-full
+} */
+
+.MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline {
+  border-color: #ffffff;
+  color: white;
+}
+
+.recharts-legend-item {
+  @apply px-1 md:px-3;
+}
+
+/* .MuiTableContainer-root {
+  max-width: 100% !important;
+  overflow-x: auto !important;
+}
+.MuiTable-root {
+  width: 100% !important;
+  min-width: 600px !important;
+}
+@media (max-width: 768px) {
+  .MuiTableContainer-root {
+    overflow-x: auto !important;
+  }
+} */

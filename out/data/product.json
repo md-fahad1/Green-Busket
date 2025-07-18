@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "stock": "In Stock",
+    "name": "Ceramic Dinner Plate",
+    "image": "/img/product/1.png",
+    "category": "Ceramic Items",
+    "price": 12000,
+    "offer": 15,
+    "discountedPrice": 10200,
+    "rating": 4.4
+  },
+  {
+    "id": 2,
+    "stock": "Stock Out",
+    "name": "Ceramic Soup Bowl",
+    "image": "/img/product/2.png",
+    "category": "Ceramic Items",
+    "price": 5500,
+    "offer": 10,
+    "discountedPrice": 4950,
+    "rating": 4.4
+  },
+  {
+    "id": 3,
+    "stock": "In Stock",
+    "name": "Ceramic Serving Dish",
+    "image": "/img/product/3.png",
+    "category": "Ceramic Items",
+    "price": 8000,
+    "offer": 12,
+    "discountedPrice": 7040,
+    "rating": 4.4
+  },
+  {
+    "id": 4,
+    "stock": "In Stock",
+    "name": "Ceramic Teapot",
+    "image": "/img/product/4.png",
+    "category": "Ceramic Items",
+    "price": 6000,
+    "offer": 8,
+    "discountedPrice": 5520,
+    "rating": 4.4
+  },
+  {
+    "id": 5,
+    "stock": "Stock Out",
+    "name": "Ceramic Coffee Mug",
+    "image": "/img/product/5.png",
+    "category": "Ceramic Items",
+    "price": 4500,
+    "offer": 10,
+    "discountedPrice": 4050,
+    "rating": 4.4
+  },
+  {
+    "id": 6,
+    "stock": "In Stock",
+    "name": "Ceramic Casserole Dish",
+    "image": "/img/product/6.png",
+    "category": "Ceramic Items",
+    "price": 180000,
+    "offer": 20,
+    "discountedPrice": 144000,
+    "rating": 4.4
+  },
+  {
+    "id": 7,
+    "stock": "In Stock",
+    "name": "Ceramic Cake Stand",
+    "image": "/img/product/1.png",
+    "category": "Ceramic Items",
+    "price": 9000,
+    "offer": 15,
+    "discountedPrice": 7650,
+    "rating": 4.4
+  },
+  {
+    "id": 8,
+    "stock": "Stock Out",
+    "name": "Ceramic Soup Plate",
+    "image": "/img/product/3.png",
+    "category": "Ceramic Items",
+    "price": 1200,
+    "offer": 18,
+    "discountedPrice": 9840,
+    "rating": 4.4
+  },
+  {
+    "id": 9,
+    "stock": "Stock Out",
+    "name": "Ceramic Pasta Bowl",
+    "image": "/img/product/4.png",
+    "category": "Ceramic Items",
+    "price": 7000,
+    "offer": 13,
+    "discountedPrice": 6090,
+    "rating": 4.4
+  },
+  {
+    "id": 10,
+    "stock": "In Stock",
+    "name": "Ceramic Platter",
+    "image": "/img/product/2.png",
+    "category": "Ceramic Items",
+    "price": 5000,
+    "offer": 10,
+    "discountedPrice": 4500,
+    "rating": 4.4
+  },
+  {
+    "id": 11,
+    "stock": "Stock Out",
+    "name": "Ceramic Espresso Cup",
+    "image": "/img/product/5.png",
+    "category": "Ceramic Items",
+    "price": 900,
+    "offer": 15,
+    "discountedPrice": 765,
+    "rating": 4.4
+  },
+  {
+    "id": 12,
+    "stock": "In Stock",
+    "name": "Ceramic Salad Bowl",
+    "image": "/img/product/6.png",
+    "category": "Ceramic Items",
+    "price": 600,
+    "offer": 12,
+    "discountedPrice": 520,
+    "rating": 4.4
+  }
+]
