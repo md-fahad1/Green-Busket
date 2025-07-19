@@ -10,6 +10,7 @@ import NewArrivalContainer from "@/components/Home/HomePage/NewArrival/NewArriva
 import StylishShop from "@/components/Home/HomePage/StylishShop";
 import TopBrandProducts from "@/components/Home/HomePage/TopBrandProducts/TopBrandProducts";
 import TopCategories from "@/components/Home/HomePage/TopCategory/Topcategory";
+import Vegetable from "@/components/Home/HomePage/Vegetable/vegetable";
 import ProductContainer from "@/components/Product/ProductContainer";
 import WhatsApp from "@/components/Whatsapp/WhatsApp";
 import { Inter } from "next/font/google";
@@ -26,6 +27,7 @@ export default function Home() {
       <TopCategories />
       <BannerGrid />
       <AllProducts />
+      <Vegetable />
       {/* features items  */}
       {/* <Features />
       <ExploreEvery />
